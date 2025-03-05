@@ -1,3 +1,0 @@
-# MyLoveWedding
-
-//Testing
