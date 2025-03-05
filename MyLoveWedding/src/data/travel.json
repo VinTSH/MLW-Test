@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "airline": "United",
+        "departureCity": "New York",
+        "arrivalCity": "London",
+        "departureDate": "2025-06-15",
+        "returnDate": "2025-06-22",
+        "price": 1200,
+        "hotel": {
+            "name": "The Ritz London",
+            "location": "London",
+            "pricePerNight": 500
+        },
+        "pricing": 1200
+    },
+    {
+        "id": "2",
+        "airline": "American",
+        "departureCity": "Los Angeles",
+        "arrivalCity": "Paris",
+        "departureDate": "2025-07-01",
+        "returnDate": "2025-07-08",
+        "price": 1500,
+        "hotel": {
+            "name": "Four Seasons George V",
+            "location": "Paris",
+            "pricePerNight": 800
+        },
+        "pricing": 1500
+    }
+]
